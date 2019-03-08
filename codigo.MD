@@ -29,6 +29,28 @@ git push|se utiliza para cargar contenido del repositorio local en un repositori
 </tr>
 </tbody>
 </table>
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>CÓDIGO</th>
+<th>SIGNIFICADO</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>git tag</td>
+<td>Muestra una lista de todos los tags.</td>
+</tr>
+<tr>
+<td>git reset</td>
+<td>Saca un archivo del commit.</td>
+</tr>
+<tr>
+<td>git ignore</td>
+<td>Podemos ignorar carpetas o archivos que queramos.</td>
+</tr>
+</tbody>
+</table>
 <p><img src="https://i0.wp.com/blog.channeldir.com/wp-content/uploads/2017/06/Curso-gratis-de-GIT-y-GITHUB.jpg?resize=800%2C500g" alt=" (Wikipedia)"></p>
 <h1><a id="Links_para_saber_mas_comandos_de_git_y_github_8"></a>Links para saber mas comandos de git y github</h1>
 <ul>
